@@ -1,0 +1,25 @@
+//Configure php on Compute Engine
+
+https://cloud.google.com/php/tutorials/getting-started-on-compute-engine
+
+
+// Configure Gcloud
+
+https://cloud.google.com/compute/docs/gcloud-compute/
+
+
+//Command APi link Google Cloud
+
+
+https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
+
+
+// SSH connection to google cloud
+
+
+gcloud alpha cloud-shell ssh
+
+
+//List compute engine instance 
+
+gcloud compute instances list
